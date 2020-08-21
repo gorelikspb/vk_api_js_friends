@@ -9,4 +9,4 @@
 
 Работу приложения можно проверить онлайн: https://gorelikspb.github.io/vk_api_js_friends/index.html
 
-иили посмотреть на этой гифке: https://github.com/gorelikspb/vk_api_js_friends/commit/fb46669173652126ef43e4999f369724f6e599ca#commitcomment-41673539
+иили посмотреть на этой гифке: https://github.com/gorelikspb/vk_api_js_friends/commit/ebe2cdf6b00a18970b9616586b5059fb8606cae1#commitcomment-41673760
