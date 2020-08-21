@@ -21,6 +21,8 @@ $(document).ready(function () { // без этой обертки не рабо�
   $('#login').on('click', function () {
     VK.Auth.login( //callback после авторизации
       function (response) {
+      
+     console.log(response);
   
      if (response.status === 'connected') { // авторизация прошла успешно
 
